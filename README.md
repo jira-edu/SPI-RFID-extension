@@ -1,2 +1,2 @@
 # SPI-RFID-extension
-RFID SPI Interface extension for microBlock IDE
+ESP32 RFID RC522 SPI Interface extension for microBlock IDE.
