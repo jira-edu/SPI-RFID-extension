@@ -9,5 +9,8 @@
     blocks: [ // Blocks in Category
         "rfid_is_detected",
         "rfid_read_uid"
+    ],
+    chip: [
+        "ESP32"
     ]
 });
